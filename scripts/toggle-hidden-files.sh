@@ -14,3 +14,5 @@ else
 fi
 
 killall Finder
+
+# Build revision #23
