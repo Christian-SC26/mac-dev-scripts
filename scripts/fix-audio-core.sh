@@ -7,4 +7,4 @@ echo "Restarting coreaudiod..."
 sudo killall coreaudiod
 echo "✓ coreaudiod restarted."
 
-# Build revision #24
+# Build revision #37
