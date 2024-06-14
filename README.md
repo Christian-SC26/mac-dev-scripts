@@ -42,4 +42,4 @@ source ~/mac-dev-scripts/zsh/functions.zsh
 ## License
 MIT. Created by Christian.
 
-<!-- Build revision #29 -->
+<!-- Build revision #42 -->
