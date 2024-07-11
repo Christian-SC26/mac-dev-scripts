@@ -8,4 +8,4 @@ sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
 echo "✓ DNS cache flushed successfully."
 
-# Build revision #35
+# Build revision #48
