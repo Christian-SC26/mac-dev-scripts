@@ -15,4 +15,4 @@ fi
 
 killall Finder
 
-# Build revision #36
+# Build revision #49
