@@ -35,5 +35,3 @@ if [ -d "$SIMULATOR_CACHES" ]; then
 fi
 
 echo "✓ Xcode cleanup completed successfully."
-
-# Build revision #174
